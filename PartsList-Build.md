@@ -1,0 +1,36 @@
+For this build you will need the following hardware parts to complete the build 
+
+
+**Remember to print this in filament like PETG-CF, ASA or something more durable and heat resistant than PLA. 
+
+***M2 heat inserts go in the inner portion of the case that mount the carrier board, battery cover, carrier board cover ***
+
+M2 Heat Inserts - QTY 14 - https://www.amazon.com/dp/B0DQL44Z2V?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+M2 x 5 or 6mm screws - QTY 12 - https://www.amazon.com/dp/B0CG1Q2YL6?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+M2 x 15mm - QTY - 2 - https://www.amazon.com/dp/B0CG1R38P7?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+
+***M2.5 heat inserts go for the iPad Cover, antenna module slots, USB-C Charge Port and the two side panel covers.
+
+M2.5 Heat Inserts - QTY 22 - https://www.amazon.com/dp/B0D7M383N8?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+M2.5 x 12mm - QTY 8 - https://www.amazon.com/dp/B0CG1QB1PD?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+M2.5 x 5mm or 6mm - QTY 10 - https://www.amazon.com/dp/B0CG1NVX6J?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+M2.5 x 8mm - QTY 4 - https://www.amazon.com/M2-5-0-45-Socket-Machine-Countersunk-Quantity/dp/B0CG1MV173/ref=sr_1_1_sspa?crid=2DLHIYDAZINV0&dib=eyJ2IjoiMSJ9.a4waU4O8kaT9HH9yY0Ipw7aimxxBBtLl8MUwtdn4BKSOt-sIdq4yBae5_LZCoHtA4V4jGIdsc5mcWUZ5lXqOfcopI2UE0BIsUrkK9gNJDefRokfDQ9JS9gR4w4ihPOdktk8bqhUii5JI5HYsV5ZnzNeYsuQ0JJX-fv4ysWnbsDXJPAEj_h-mi3zVA7fDIcerMFBEbT3Ee1R9BLzvUkg74FWNyePK0c8D6gLyJMR3wBk.7pxFVn_mnKMC68w8x4rmtJvwg_gqhf4lm625XXzJGUo&dib_tag=se&keywords=m2.5%2Bx%2B8mm&qid=1789718419&sprefix=m2.5%2Bx%2B8mm%2Caps%2C152&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+
+
+M3 x 5mm - QTY 2 
+
+1/4"-20 Heat Inserts - QTY 2 - https://www.amazon.com/ZWMSSLL-Threaded-20x8x8-Printing-Components/dp/B0DFWVD621/ref=sr_1_9?crid=1YB4A9UFKUOIO&dib=eyJ2IjoiMSJ9.3gNoN9Cc0o_9lb23QteXm_P3pxqwhok6z-01P_mswVuB1evDocaNb215EyIYCkqNgt7GKmNb2Ft5NcjHBjw1mII_NhtOHEYB8XZkXx2SMc0_m_m8458heyjGf9m_Fvfu3SnDyMVJS4Zp8YVGdnWkKC_9IrC6hNapLfXSX75F--WNuBsog80i6eqE1OjxJP2dUOTkY_tAw2YNLZ43S9iZnol6tXodbs8uoHGjBFOAwBI.CL52-VYayaMxcs5qAdICiTBubcLsZJH19ELCu0__gYs&dib_tag=se&keywords=1%2F4%22-20+heat+inserts&qid=1789718446&sprefix=1%2F4+-20+heat+insert%2Caps%2C152&sr=8-9
+
+
+16mm x 20mm x 2mm - O-Rings - QTY 2 - https://www.amazon.com/uxcell-Rings-Nitrile-Rubber-Diameter/dp/B07F32DWQ5/ref=sr_1_2?crid=LZ3H7O62LZDC&dib=eyJ2IjoiMSJ9.hGsA_L_1XkYGSjh-_eCBCyKPm_xJHDa-e8dH_yvL3D_wjpMmL3ZangbG_tiMLokfW576a2zXEsoE8li3KxSbQcylaV5mNJm1QdNCgQnPdv_xS7gKHZoj_viYaQnI659DVLC3SNtSamvM8d5Wter0BEc5Ay6XvOEhkXBEalDB1sDZ-6ikfII-Cv-zc5kUu_rviT5vdc2mEJGmsWMLJCgwZLR--3CSyIJPDNQTJr_9lhg.Jhp85pqmYH0yucE0pttawdLl2gwjD8kkvyORXZleROo&dib_tag=se&keywords=16mm%2Bx%2B20mm%2Bx%2B2mm%2Boring&qid=1789717703&sprefix=16mm%2Bx%2B20mm%2Bx%2B2mm%2Boring%2Caps%2C140&sr=8-2&th=1
+
+
+USB-C Panel x Right Angle USB-C - https://www.amazon.com/dp/B0H6J1S9TG?ref=ppx_yo2ov_dt_b_fed_asin_title
+Mini 2.4ghz Antenna Male - https://www.amazon.com/2-4GHz-WiFi-Antenna-Male-Thumb/dp/B09XMF4JHT/ref=sr_1_9?crid=3OG2RBOAZDFHH&dib=eyJ2IjoiMSJ9._pGgzNpA6eVjX51j-WNefK6asdIaqi-b4eS8BGJUAO0tNbzUOsLnZnNzkJnbID_nk4lq6DRZ61_YlalyN7pvpcWZ8vyXz-oWycwxETLgoSXE-WjBXVKCUNp9bTrCqM-fXvRVirHkhba2zpOmtwlXxInyPfJVEqKb1Xevr8XcOrh5swZNKktW2Mq06-ZxevflT8SbehxPunb550vMwXkhgRKvWyQH7L-KVBBpsCO6vJA.llAo6RQ19YH2khtImJYET57WnptMnP66GervgmQ2m_U&dib_tag=se&keywords=Mini%2B2.4ghz%2Bantenna&qid=1789717784&sprefix=mini%2B2.4ghz%2Bantenna%2Caps%2C145&sr=8-9&th=1
+RAK 19007 + 4631 Starter Kit - https://www.amazon.com/dp/B0CHKZJK9C?ref=ppx_yo2ov_dt_b_fed_asin_title
+(Optional) RAK 12501 GPS Module - https://www.amazon.com/dp/B0FKB2QTHG?ref=ppx_yo2ov_dt_b_fed_asin_title
+You can use any - 1/4"-20 Camera Strap Mount - https://www.amazon.com/dp/B0F1DKG83T?ref=ppx_yo2ov_dt_b_fed_asin_title
+SMA-F to IPX Adapter/Antenna - https://www.amazon.com/HiLetgo-Wireless-Antenna-Extension-NRF24L01/dp/B01HXU1PKS/ref=sr_1_9?crid=27C98VRR4CEQH&dib=eyJ2IjoiMSJ9.3IKRiicNR8jxs19THLmT9dlZaW1C4w09usJsADSW_HM-WYdHRnkfmIRDxNzR8FKXJoxZKKK6O4TXO_WPu6Hc5lHItMnQUoj94EGm2hAyi2MmoiQqb9k-lyNYXQtcSE2SG1ZdEPIP3xVJcy6mDbQceU77ZtX5fS61406ncCmcdcxhzSqRao0lAiYQHaa3k-vXi1RM-iR0xWuKMlnKEvYu2w38sZXy7ZG-GLQHcLEGk04.sxHo2w1Vvg4_wW4NQTbWOUjHgWRFqAl8mfnw4FvseHU&dib_tag=se&keywords=SMA+Female+to+IPX&qid=1789718108&sprefix=sma+female+to+ipx%2Caps%2C156&sr=8-9
+N-Type Female to IPX - https://www.amazon.com/dp/B08ZYK5SL9?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_6&th=1
+ALFA915 N-Mount Male Antenna - https://www.amazon.com/Network-AOA-915-5ACM-Outdoor-802-11ah-Application/dp/B08H8J6ZV6/ref=sr_1_1_pp?crid=PMRU9V0MMAKV&dib=eyJ2IjoiMSJ9.4rA7wSTEKA8_5-ZYT8HYgi3QuRXiQ4jV6fXiYpMWtqF0sv71hw-L9WSy07AYnepWTq5pFmZBMIbl6_kdNFcVr9G3lgGII2_eXRIzI4-k2huxx22PBj9XIGUmqp7XTiXXi-PUewW9twTlVFXxvONSs1OhxQs4N-rvtW7wS4SnIAgV8g2C6q2tY3h1_8XSEOZcZYsuF6_JDCpEyZp7AqmjBQPfJrYwC_7UzoxJKtOe3zU.ktE6PLQEdzgyErj8HhqLFgqdSk_o2XPL19i4vUWPfRg&dib_tag=se&keywords=ALFA+915&qid=1789718492&sprefix=alfa+91%2Caps%2C163&sr=8-1
+915mhz SMA-Male Antenna - https://www.amazon.com/915MHz-Antenna-10dBi-Meshtastic-Range/dp/B0DB5MJ3CZ/ref=sr_1_8?crid=BFJ602DAKQLN&dib=eyJ2IjoiMSJ9.JgSRVJCoRT-r8tRE4JtURqnJ__jJDcYyUCBLpiDaA3Pag7uTnH7nuaMeg2ij8PaukuayoGkxW6uAwsea5qqll3QieqnC4F2-_K_phbhOzDA64eEIoX0qwdv9gPuy_rc3ufnEwmP7rO8T3xOFUd5ZW3CuuUzPKucIlEQLWUeOnDp50N1Kde_cMqDm35fX5mMr_T4scXBt9IyCwc7PB2-NhyATDFOdD3Nd1_H8u9CAPwo.rLM0EdgTA_mv854r7S2EWbih2IBikF_17GnU9IO1iRA&dib_tag=se&keywords=915mhz%2BMale%2BAntenna&qid=1789718558&sprefix=915mhz%2Bmale%2Bantenn%2Caps%2C154&sr=8-8&th=1
